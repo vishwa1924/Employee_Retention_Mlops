@@ -10,4 +10,10 @@ class DataIngestionConfig:
     unzip_dir: Path
 
 
+
+
+
+
+
+
     
